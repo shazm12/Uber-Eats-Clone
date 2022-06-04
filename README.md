@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/mysticatea/if-node-version.svg?branch=master)](https://travis-ci.org/mysticatea/if-node-version)
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
- [![GitHub last commit](https://img.shields.io/github/last-commit/HeavyScam/furnitar-back?style=social&logo=git)](https://github.com/shazm12/Ai-based-Ecommerce-web-app)
+ [![GitHub last commit](https://img.shields.io/github/last-commit/HeavyScam/furnitar-back?style=social&logo=git)](https://github.com/shazm12/Uber-Eats-Clone)
 
 <h2 align="center">Uber Eats Clone</h2>  
 <h5 align="center">A Clone of the Uber Eats App for the User , Driver and Restaurants.</h5>
