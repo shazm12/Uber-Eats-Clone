@@ -122,7 +122,7 @@ const OrderDelivery = () => {
             order.status === "READY_FOR_PICKUP" ? [restaurantLocation] : []
           }
           strokeColor="#3FC060"
-          apikey={"AIzaSyDZeTDL4gyHOzvU0L3rPwnJ2xr2Ez7j4Lo"}
+          apikey={"Your Google API Key"}
           onReady={(result) => {
             setTotalMinutes(result.duration);
             setTotalKm(result.distance);
