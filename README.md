@@ -1,7 +1,7 @@
 
 
 
-<h3 align="center">Uber Eats Clone</h3>  
+<h2 align="center">Uber Eats Clone</h2>  
 <h5 align="center">A Clone of the Uber Eats App for the User , Driver and Restaurants.</h5>
 
 
